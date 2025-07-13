@@ -12,7 +12,9 @@ This is an exploratory project with a dataset from a video game I used to play. 
 7.  Free Player = There are two types of players in the game, one of them is the free player, they are restricted in terms of certain items they can own or purchase.
 8.  Member = This is the second type of player that pays a subscription to be a member, they have access to all aspects of the game and its items. Some items are specifically member only and can therfore only be purchased and wielded by them.
 # Process/Initial Steps
-1. Researched ways of spooling/acquiring RS data.(Web Scrappers or API).
+Now when I first began this project my first thought was how do I even get this data, surely there must be some way to acquire game data that is reliable and gives up to date information.
+
+1. Researched ways of spooling/acquiring RS/OSRS data.(Web Scrappers or API).
 
 2. Discovering that most of RS3 and OSRS data can be found in json dump that gets regularly updated by runescape itself allowing for easy refresh of data
 
