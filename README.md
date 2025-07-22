@@ -30,3 +30,7 @@ Now when I first began this project my first thought was how do I even get this 
 4. Began transformations on the data
 # Aspects Explored
 # Transformations
+Initially when pulling in the json data, it came as a list that had to be converted in to a table, and records that had to be expanded out 
+<img width="853" height="706" alt="image" src="https://github.com/user-attachments/assets/a7ae72ea-c7c9-41ff-b848-155845f205cf" />
+<img width="1303" height="711" alt="image" src="https://github.com/user-attachments/assets/2f9251ea-c20c-4843-b85f-ae99f222245c" />
+Some column data types containing numeric values for calculations also needed to be cleaned so they could be used later.
