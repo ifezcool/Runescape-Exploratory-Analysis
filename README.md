@@ -36,3 +36,7 @@ Initially when pulling in the json data, it came as a list that had to be conver
 Some column data types containing numeric values for calculations also needed to be cleaned so they could be used later.
 # Aspects Explored
 When making this report, I wanted to make something that would be relevant to the person playing the game and utilizing the games market. One of the major things for a player, be they be a free player or a member is making in game money and the most efficient methods of doing so, when doing this they have to consider things like the value of the item and the price of the item on the Grand Exchange. Note that these are two different things. Items can be obtained through other means besides just the Grandexchange, meaning they can be purchased from NPCs. Fortunately my data source includes this price in its output. Now the player would want to know the most effecient way to obtain an item, how much they could buy it for on the market, how much they would get when they LowAlch or HighAlch it and what the return on the investment is of getting the 'raw materials' involved in the process in the first place.
+
+Now design-wise, I wanted to make something inline with the theme of the game,which ultimately led me to figma to find resources I could repurpose for this dashboard.
+<img width="1118" height="623" alt="image" src="https://github.com/user-attachments/assets/05bc3e35-d637-4771-aff5-6441aca45361" />
+
