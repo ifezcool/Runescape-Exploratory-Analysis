@@ -28,9 +28,11 @@ Now when I first began this project my first thought was how do I even get this 
 3. Performed connection by web, using link to the json files
 
 4. Began transformations on the data
-# Aspects Explored
+
 # Transformations
 Initially when pulling in the json data, it came as a list that had to be converted in to a table, and records that had to be expanded out 
 <img width="853" height="706" alt="image" src="https://github.com/user-attachments/assets/a7ae72ea-c7c9-41ff-b848-155845f205cf" />
 <img width="1303" height="711" alt="image" src="https://github.com/user-attachments/assets/2f9251ea-c20c-4843-b85f-ae99f222245c" />
 Some column data types containing numeric values for calculations also needed to be cleaned so they could be used later.
+# Aspects Explored
+When making this report, I wanted to make something that would be relevant to the person playing the game and utilizing the games market. One of the major things for a player, be they be a free player or a member is making in game money and the most efficient methods of doing so, when doing this they have to consider things like the value of the item and the price of the item on the Grand Exchange. Note that these are two different things. Items can be obtained through other means besides just the Grandexchange, meaning they can be purchased from NPCs. Fortunately my data source includes this price in its output. Now the player would want to know the most effecient way to obtain an item, how much they could buy it for on the market, how much they would get when they LowAlch or HighAlch it and what the return on the investment is of getting the 'raw materials' involved in the process in the first place.
